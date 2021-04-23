@@ -1,4 +1,4 @@
 # Recommender
 
 
-Some recommendation algorithms will add
+Some recommendation algorithms will be added.
