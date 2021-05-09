@@ -1,4 +1,4 @@
 # Recommender
 
-
-Some recommendation algorithms will be added.
+Recommended relevant movies based on similarity measures (Cosine, Jaccard, etc.) and Collaborative
+Filtering methods.
